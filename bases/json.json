@@ -1,0 +1,34 @@
+[
+    {
+        "id_prescricao": 201,
+        "id_paciente": 1,
+        "nome_medicamento": "Lisinopril",
+        "dosagem": "10mg",
+        "nome_paciente": "João Silva",
+        "idade": 45
+    },
+    {
+        "id_prescricao": 202,
+        "id_paciente": 2,
+        "nome_medicamento": "Metformina",
+        "dosagem": "500mg",
+        "nome_paciente": "Maria Oliveira",
+        "idade": 34
+    },
+    {
+        "id_prescricao": 203,
+        "id_paciente": 3,
+        "nome_medicamento": "Salbutamol",
+        "dosagem": "100mcg",
+        "nome_paciente": "Carlos Souza",
+        "idade": 29
+    },
+    {
+        "id_prescricao": 204,
+        "id_paciente": 4,
+        "nome_medicamento": "Atorvastatina",
+        "dosagem": "20mg",
+        "nome_paciente": "Ana Lima",
+        "idade": 52
+    }
+]
