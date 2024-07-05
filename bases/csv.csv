@@ -1,11 +1,5 @@
-id_paciente;nome_paciente;nome_hospital;idade;quadro
-1;Maria Silva;Hospitalar;34;Hiper
-2;João Pere;Hos;45;Diabete
-3;A;Hospital Mun;2;Asma
-4;Carlos;Hospital Universitário;52;Carro
-5;Luiza Fernandes;Hospital Ce;38;E
-6;Pedro Sant;Hospi;41;Artrite
-7;Juliana;Hospital Municipal;27;Enxaqueca
-8;Ricardo Almeida;Hospital;50;Os
-9;Fé;E;36;Depr
-10;Bruno Carvalho;Eu;43;Insônia
+id_prescricao;id_paciente;nome_medicamento;dosagem
+201;1;Lisinopril;10mg
+202;2;Metformina;500mg
+203;3;Salbutamol;100mcg
+204;4;Atorvastatina;20mg
