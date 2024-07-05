@@ -1,72 +1,26 @@
 [
    {
-      "id_paciente": 21,
-      "nome_paciente": "Lucas Almeida",
-      "hospital": "Hospital Nova Vida",
-      "idade": 33,
-      "doenca": "Hipertensão"
+      "id_prescricao": 201,
+      "id_paciente": 1,
+      "nome_medicamento": "Lisinopril",
+      "dosagem": 33
    },
    {
-      "id_paciente": 22,
-      "nome_paciente": "Patricia Lima",
-      "hospital": "Hospital São Rafael",
-      "idade": 46,
-      "doenca": "Diabetes"
+      "id_prescricao": 202,
+      "id_paciente": 2,
+      "nome_medicamento": "Lisinopril",
+      "dosagem": 46
    },
    {
-      "id_paciente": 23,
-      "nome_paciente": "Roberto Martins",
-      "hospital": "Hospital Esperança",
-      "idade": 30,
-      "doenca": "Asma"
+      "id_prescricao": 203,
+      "id_paciente": 2,
+      "nome_medicamento": "Metformina",
+      "dosagem": 30
    },
    {
-      "id_paciente": 24,
-      "nome_paciente": "Fernanda Silva",
-      "hospital": "Hospital Boa Vista",
-      "idade": 54,
-      "doenca": "Cardiopatia"
-   },
-   {
-      "id_paciente": 25,
-      "nome_paciente": "Gustavo Santos",
-      "hospital": "Hospital São João",
-      "idade": 40,
-      "doenca": "Hipotireoidismo"
-   },
-   {
-      "id_paciente": 26,
-      "nome_paciente": "Juliana Ferreira",
-      "hospital": "Hospital Central",
-      "idade": 37,
-      "doenca": "Artrite"
-   },
-   {
-      "id_paciente": 27,
-      "nome_paciente": "Marcos Souza",
-      "hospital": "Hospital São Lucas",
-      "idade": 29,
-      "doenca": "Enxaqueca"
-   },
-   {
-      "id_paciente": 28,
-      "nome_paciente": "Camila Oliveira",
-      "hospital": "Hospital Vida Saudável",
-      "idade": 51,
-      "doenca": "Osteoporose"
-   },
-   {
-      "id_paciente": 29,
-      "nome_paciente": "Rodrigo Carvalho",
-      "hospital": "Hospital Santa Luzia",
-      "idade": 38,
-      "doenca": "Depressão"
-   },
-   {
-      "id_paciente": 30,
-      "nome_paciente": "Isabela Rodrigues",
-      "hospital": "Hospital da Paz",
-      "idade": 44,
-      "doenca": "Insônia"
+      "id_prescricao": 204,
+      "id_paciente": 1,
+      "nome_medicamento": "Metformina",
+      "dosagem": 54
    }
 ]
